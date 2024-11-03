@@ -27,11 +27,10 @@
 
 
  # Rules 
- - **Read the Rules Carefully**
- - **You will get all the necessary Documents in the API URL for testing. If you can not figure out. Don't worry you just need to be skilled up.**
+ 
  - 
  - **Do not DDoS the API**
  - **Use Postman for better output**
  - **Create Your Data To Test**
- - **Make sure You are working hard. not being a Lazy Cat**
+
 
